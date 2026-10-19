@@ -1,4 +1,4 @@
-cat > requirements.txt <<'EOF'
+
 fastapi
 uvicorn[standard]
 pydantic
@@ -7,4 +7,3 @@ chromadb
 sentence-transformers
 beautifulsoup4
 pytest
-EOF
