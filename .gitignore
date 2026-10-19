@@ -14,6 +14,9 @@ __pycache__/
 **/__pycache__/
 .pytest_cache/
 **/.pytest_cache/
+*.pyc
 
 # Generated databases
 chroma_db/
+task1-knowledge-brain/data/chroma/
+task1-knowledge-brain/data/chroma_backup/
