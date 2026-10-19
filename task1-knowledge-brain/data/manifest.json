@@ -1,0 +1,52 @@
+{
+  "https://support.brilliantdirectories.com/support/home": {
+    "status": "success",
+    "content_hash": "012f4cd6a441e7c930f86d0c88cd359a5174d0cfd220d8bb9d76bbe2a87d47d1",
+    "last_checked": "2026-10-17T17:01:31.168593+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions": {
+    "status": "success",
+    "content_hash": "392f590e9574d141a30c9b3f393e0c4a77bc2d96ce6a3d80b07865bb797035e8",
+    "last_checked": "2026-10-17T17:01:35.325171+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001358": {
+    "status": "success",
+    "content_hash": "1df2f1e228b2fa6a99bdec37e6807b66673696b695b32c21c75bd76ce1ca513d",
+    "last_checked": "2026-10-17T17:01:37.583904+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001516": {
+    "status": "success",
+    "content_hash": "c196c350a1f583c1994e59d5a63b2213c7747de754f00ee4134e9e642a3dbcfd",
+    "last_checked": "2026-10-17T17:01:39.708638+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001517": {
+    "status": "success",
+    "content_hash": "002100032514d574106ba6320d9cceab85cf63b60d2bfe7032d4f079eb1851b1",
+    "last_checked": "2026-10-17T17:01:42.193802+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001518": {
+    "status": "success",
+    "content_hash": "5a1a7fc1c751c56d8e81f0806618d05ba66fa822c84af2e9259ab401962fc517",
+    "last_checked": "2026-10-17T17:01:44.976459+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001519": {
+    "status": "success",
+    "content_hash": "121dcadae290e32717963fa8c936bcdc96577a3bb33c79d34736841bace2730e",
+    "last_checked": "2026-10-17T17:01:47.215676+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001520": {
+    "status": "success",
+    "content_hash": "6d20e4f18d87f64b9562fcf37174127e2398b051623ec04a446f38aa7d6aaa47",
+    "last_checked": "2026-10-17T17:01:49.303923+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001521": {
+    "status": "success",
+    "content_hash": "17f332c5cd88937b516ee3f9c8647390b2859065db89fbfbc9b7cedba54b9e32",
+    "last_checked": "2026-10-17T17:01:51.369974+00:00"
+  },
+  "https://support.brilliantdirectories.com/support/solutions/12000001522": {
+    "status": "success",
+    "content_hash": "e2e812af47390b9b501e936a41ede4cf75cd346bc789e4cbdac0eae946d5c156",
+    "last_checked": "2026-10-17T17:01:53.616417+00:00"
+  }
+}
